@@ -1,0 +1,24 @@
+/* .carousel-item {
+    background: no-repeat scroll center scroll;
+    background-size: cover;
+
+}
+
+.carousel-item::before {
+    display: block;
+    position: absolute;
+    background-color: black;
+    opacity: .7;
+
+} */
+.filter-img {
+    filter: brightness(50%);
+}
+
+.carousel-caption {
+    padding-bottom: 80px;
+}
+
+.carousel-caption h1 {
+    font-size: 60px;
+}

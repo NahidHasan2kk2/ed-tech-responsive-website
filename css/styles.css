@@ -1,16 +1,3 @@
-/* .carousel-item {
-    background: no-repeat scroll center scroll;
-    background-size: cover;
-
-}
-
-.carousel-item::before {
-    display: block;
-    position: absolute;
-    background-color: black;
-    opacity: .7;
-
-} */
 .filter-img {
     filter: brightness(50%);
 }
